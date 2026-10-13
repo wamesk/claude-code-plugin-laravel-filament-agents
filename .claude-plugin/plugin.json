@@ -1,9 +1,9 @@
 {
   "name": "laravel-filament-agents",
-  "description": "Placeholder for WAME's Filament agents and skills. Intentionally empty until the first real Filament work lands (WAME Reality Phase 1) — the filament-resource agent and wame-filament-patterns skill will be written from what that work teaches, not blindly from documentation. Installing this today is a no-op reservation of the plugin name and marketplace slot.",
+  "description": "UI/UX rules for Laravel Filament admin panels (v3, v4, v5) in the wame-filament-ui skill: what a screen shows, in what order and how it looks — panel theme, navigation, resource pages, forms and schemas, tables, actions and modals, notifications, widgets and custom pages — with the per-major differences read from composer.lock. Adds the Filament specifics to the general method in design-agents:wame-ui-ux. The Filament developer agent and a code-patterns skill come later.",
   "author": {
     "name": "Stanislav Červeňák",
     "email": "info@wame.sk"
   },
-  "version": "0.0.1"
+  "version": "0.1.0"
 }
